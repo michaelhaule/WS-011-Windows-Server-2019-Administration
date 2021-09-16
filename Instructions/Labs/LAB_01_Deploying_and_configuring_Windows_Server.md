@@ -101,7 +101,7 @@ The main tasks for this exercise are as follows:
 1. Sign in as **Contoso\Administrator**.
 1. Open File Explorer and browse to **C:\Labfiles\Mod01**.
 
-1. Double-click or select **WindowsAdminCenter1910.2.msi**, and then select Enter. Install  Windows Admen Center by accepting all the defaults.
+1. Double-click or select **WindowsAdminCenter1910.2.msi**, and then select Enter. Install  Windows Admin Center by accepting all the defaults.
 
 ### Task 2: Add servers for remote administration
 
